@@ -11,6 +11,10 @@ function c() {
 }
 b()
 c()
+function d() {
+  console.log('4')
+}
+d()
 </script>
 
 <template>
