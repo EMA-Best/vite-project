@@ -19,6 +19,10 @@ function e() {
   console.log('5')
 }
 e()
+function f () {
+  console.log("提交未格式化的代码")
+}
+f()
 </script>
 
 <template>
