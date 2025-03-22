@@ -15,6 +15,10 @@ function d() {
   console.log('4')
 }
 d()
+function e() {
+  console.log('5')
+}
+e()
 </script>
 
 <template>
