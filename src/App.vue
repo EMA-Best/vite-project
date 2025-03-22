@@ -1,14 +1,16 @@
 <script setup>
-function a (){
-  console.log("1");
-  
+function a() {
+  console.log('1')
 }
-a();
-function b () {
-  console.log("2");
-  
+a()
+function b() {
+  console.log('2')
 }
-b();
+function c() {
+  console.log('3')
+}
+b()
+c()
 </script>
 
 <template>
